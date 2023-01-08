@@ -28,8 +28,9 @@ Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
 [Modul Program Input Nilai Mahasiswa](https://drive.google.com/drive/u/0/folders/1kR63L4C97jFhZEqaaBQv1eTdKzAOJFEe)
 
-
 Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
+
+[Video Youtube](https://youtu.be/qGwQ28-X9Nc)
 
 Berikut link repository github :
 
