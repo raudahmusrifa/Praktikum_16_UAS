@@ -26,7 +26,7 @@ Setelah itu buka di text editor dan jalankan melalui terminal
 
 Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Modul Program Input Nilai Mahasiswa](https://drive.google.com/drive/u/0/my-drive)
+[Modul Program Input Nilai Mahasiswa](https://drive.google.com/file/d/1EO6TH-gdprsQ7DwX3mxr-UMQM13IGs-p/view?usp=sharing)
 
 Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
