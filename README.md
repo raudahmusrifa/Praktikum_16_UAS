@@ -34,7 +34,7 @@ Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
 Berikut link repository github :
 
-https://github.com/raudahmusrifa/Praktikum_16_UAS/edit/main/README.md
+https://github.com/raudahmusrifa/Praktikum_16_UAS
 
 Live test program :
 
